@@ -3,12 +3,9 @@
 ---
 This is **Real Time Customizable Dashboard of G Form** Created by Christofel Goenawan where the features are :
 
-1. **Machine Learning Model Created in Python in the Web**
-2. **REST API to Use the Machine Learning Model**
-3. **Contain Vary Machine Learning Models and Its Versions**
-4. **A/B Testing Features for Models Development**
-5. **Containerized Application in Docker**
-6. **Simple Automatic Testing for Machine Learning Model and Pages**
+1. **Real Time Dashboard of Google Forms Result**
+2. **Customizable Dashboard**
+
 
 To create this Real-Time Dashboard User used [Louis Owen's Blog](https://towardsdatascience.com/real-time-visualization-of-google-form-responses-in-streamlit-1e7fd20c6574) as references.
 
