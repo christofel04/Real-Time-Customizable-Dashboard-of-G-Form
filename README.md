@@ -5,6 +5,7 @@ This is **Real Time Customizable Dashboard of G Form** Created by Christofel Goe
 
 1. **Real Time Dashboard of Google Forms Result**
 2. **Customizable Dashboard**
+3. **Interactive Widget in Dashboard**
 
 
 To create this Real-Time Dashboard User used [Louis Owen's Blog](https://towardsdatascience.com/real-time-visualization-of-google-form-responses-in-streamlit-1e7fd20c6574) as references.
