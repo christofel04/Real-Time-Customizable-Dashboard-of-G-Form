@@ -21,6 +21,7 @@ The Machine Learning Models contained here are:
 
 The survey result can be seen on the repo.
 
+![](https://github.com/christofel04/Real-Time-Customizable-Dashboard-of-G-Form/blob/master/Documentation/(GIF)%20Customizable-Dashboard-of-GForm.gif?raw=true)
 ---
 
 ## Requirements:
