@@ -12,12 +12,13 @@ This is **Real Time Customizable Dashboard of G Form** Created by Christofel Goe
 
 To create this Real-Time Dashboard User used [Louis Owen's Blog](https://towardsdatascience.com/real-time-visualization-of-google-form-responses-in-streamlit-1e7fd20c6574) as references.
 
-The Web App is build using **Streamlit and Python Programming Languages**.
-The Machine Learning Models contained here are:
+The Real Time Customizable Dashboard is build using **Streamlit and Python Programming Languages**.
+The Workflow to Create this Dashboard are:
 
-- Random Forest Classifier
-- XGBoost Classifier
-- K - Neighbors Classifier
+- Create Credentials in Google API Console
+- Scraping Datas from Google Forms Responses and Save it As CSV file
+- Create Dashboard Using Streamlit in Python
+- Deploy the Real Time Customizable Dashboard using AWS's EC2 Services
 
 The survey result can be seen on the repo.
 
