@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "customizable-rt-dashboard",
+  "private_key_id": "36ebdf31ef48d492efd15e0a627b5fdf19112e72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYqdyQM2WPe71O\nerYjWiAttdzlI5tyb+DSywbuJ4hsUlJ5YQA3JGkRIjuPwLy2PNBhGvJ77CQNeQMh\nPybt9Gs98LeiGsdL3M7BiWVc6iaH7IhFbI0PLlckbGhjiW7NngA0Q+dOU6PeywhV\nSDFcGTWQiIq5Ag9i21zvyGmH4dpAyrPySnAudRdtAwymV9U0+kYK0EdzA9ZC3P1m\nI55TsCkIhLoBjUMwLXE3td+SnogOU4DItWQKVgJO/RXuNRm6hrCTwDJGMwdNnVJV\nxl5Mjx2Taxjp2QPdTOfFjWo7yZ30t/8GewVA+4c0H9IgGExb9WzZ1zT4wz1uUNtC\n5ZechUXbAgMBAAECggEARyrsdzVau9nCYf/uygf1n+4n4+BhVCKpr7Pez+WOaz5T\nNumE35gHJwieleaSVi39qJfoZIo5gW9pdsc+q1To0Qy71PSE2EdsZqgR8oY7J9Sr\nIlq4ru7i0uUFGQTwr3uhx4kydkkE/86jKxgulnj1Xkdrgb/KfAdgLKcg+vBV94fC\nmkM33NMfshWkPfaDQEJmqRkZMpN96lHLpi5AG0UA5abqWXbf4mES2f0uCoj4pydn\nU0LOzLlwx5gWbZ0Ald6Y+ElYIwo3lyROihw1XBgrAeTORjhcnGrTtQxQUtXakBSp\nj0Rp3M118IAYpy7h0ZdbrGG4y3HDp3zEUe6a2bHf+QKBgQD9JhSkU/rNQ3n605lZ\ndzsdIxN4MWvzCAeWsTrXKbjCINsQaPOlsi0RP4pQ48I20OoZkfHy0tihTVebAy0s\nR7QpPIYIWB3BTmVTq5RzlykuQXQM09TDlxaRq1N9+glSzWv/75MqXbxdj4zKsUEA\nKxqbKwum2jXmsKnzWE5w+5V4TQKBgQDbGpSxfP6YKOCaYl4ALHc8151jJkfue2AJ\n/BWYfk2wS3mSMCM/4wx0VvkfcsIRwjitABslNViphhDdcnz0azWUVAZGFfb9IVB/\nBcdSp0CUqplAryeeuTcJVz58KSHsKSAkkvOvoj2w7V13J8eZoE4MwPAMu2Cx5vjI\n8PERuAjKxwKBgQC7jXofoaSgbUyzXBAya5bdaH5lP2B2J83PhLFOdjfPhB4pU0io\ny5B+RfBJK+VZTYETvsBeIn6jSzULwNe4Bcvh/VhkWDx7WoTR775FwYmeHppHYq4w\n1wC+ngt2u0grE8zfSvVinx4Ox2sNRTQeVtEYg1TXorXqm5rekt9S7+J2xQKBgDP8\npJdQbyAvYst+14r3Afu/tSpXZO3i/DCiTYV3Qnu4DMpw/YwlFUltcYLSudV43fW+\ndrJna/gdRVcl2Rwta/Mb1LlAcPAyvWTGPDsSUDJ2IBLG/IGetL5UoxDWuaPNRkEn\nVQaxWi3mxCyHlcaP0LUZ+lsrApBzm0giUzC/F+b1AoGBAKD9v/VKpVlYn8jPb4GQ\nV2UOk4Iol1bZxnop0KyglOwt4snIbn7i+uVV2TG3zNyJqwKeN3wMyuOLaN5AebhP\nnzdckZ9iG+Xar5xslECP5tS0B4SfkZfS8+Pp5+mvKinOgj+RubGZmRLmCjlfx3Rt\nqm42t0O9UTgWdAe8YyoC9arz\n-----END PRIVATE KEY-----\n",
+  "client_email": "ofel-customizable-dashboard@customizable-rt-dashboard.iam.gserviceaccount.com",
+  "client_id": "102858976453908307819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ofel-customizable-dashboard%40customizable-rt-dashboard.iam.gserviceaccount.com"
+}
