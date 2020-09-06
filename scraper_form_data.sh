@@ -1,0 +1,1 @@
+while true ; do python3 google_sheet_scraper.py ; sleep 10m ; done
