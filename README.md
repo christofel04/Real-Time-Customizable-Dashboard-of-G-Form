@@ -1,7 +1,7 @@
 # Real Time Customizable Dashboard of G Form
 ### Using Python for Web Scrapping and Streamlit for Dashboard
 ---
-This is **Dockerized- ML - Based Web App** Created by Christofel Goenawan where the features are :
+This is **Real Time Customizable Dashboard of G Form** Created by Christofel Goenawan where the features are :
 
 1. **Machine Learning Model Created in Python in the Web**
 2. **REST API to Use the Machine Learning Model**
@@ -10,16 +10,16 @@ This is **Dockerized- ML - Based Web App** Created by Christofel Goenawan where 
 5. **Containerized Application in Docker**
 6. **Simple Automatic Testing for Machine Learning Model and Pages**
 
-To create this Web- App User used [Piotr Plonski's Paper](https://www.deploymachinelearning.com/#fig:2) as references.
+To create this Real-Time Dashboard User used [Louis Owen's Blog](https://towardsdatascience.com/real-time-visualization-of-google-form-responses-in-streamlit-1e7fd20c6574) as references.
 
-The Web App is build using **Python , Django , and Flask Programming Languages**.
+The Web App is build using **Streamlit and Python Programming Languages**.
 The Machine Learning Models contained here are:
 
 - Random Forest Classifier
 - XGBoost Classifier
 - K - Neighbors Classifier
 
-In this Project Writer used [Adult Income's Dataset](https://archive.ics.uci.edu/ml/datasets/adult) as dataset.
+The survey result can be seen on the repo.
 
 ---
 
